@@ -29,7 +29,19 @@ Telemetry Portal also integrates with Power BI for advanced reporting and data a
 3. www.youtube.com. (2023). 6 September CMPG323 weekly virtual class Patterns demo. [online] Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
 4. www.youtube.com. (2023). 5 September Patterns background +Web app demo. [online] Available at: https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
 5. www.youtube.com. (2023). 13 September Application of Design Patterns to ASP.NET Core 3.1 MVC Web App. [online] Available at: https://www.youtube.com/watch?v=VYvgmMkGUfc [Accessed 16 Aug 2024].
-6. 
+6. Rick-Anderson (2023). ASP.NET MVC Overview. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview [Accessed 16 Aug. 2024].
+7. CamSoper (n.d.). Secure a .NET web app with the ASP.NET Core Identity framework - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ [Accessed 16 Aug. 2024].
+8. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
+9. www.c-sharpcorner.com. (2012). Architectural Patterns in .NET. [online] Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ [Accessed 16 Aug. 2024].
+10. 
+
+‌
+
+‌
+
+‌
+
+‌
 
 ‌
 
