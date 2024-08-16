@@ -26,5 +26,16 @@ Telemetry Portal also integrates with Power BI for advanced reporting and data a
 ## Reference list
 1. Coding Droplets (2021). Blazor Tutorial C# - Part 1 | Blazor Basics in 30 Mins [Blazor Development] | Razor Pages. [online] YouTube. Available at: https://www.youtube.com/watch?v=dY_AWdCzsCY&list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV [Accessed 16 Aug. 2024].
 2. Coding Droplets (2024). What is Repository Pattern in .net Core - Repository Pattern C#. [online] YouTube. Available at: https://www.youtube.com/watch?v=aEhAm5wCZ-Y&list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV&index=21 [Accessed 16 Aug. 2024].
+3. www.youtube.com. (2023). 6 September CMPG323 weekly virtual class Patterns demo. [online] Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
+4. www.youtube.com. (2023). 5 September Patterns background +Web app demo. [online] Available at: https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
+5. www.youtube.com. (2023). 13 September Application of Design Patterns to ASP.NET Core 3.1 MVC Web App. [online] Available at: https://www.youtube.com/watch?v=VYvgmMkGUfc [Accessed 16 Aug 2024].
+6. 
+
+‌
+
+‌
+
+‌
+‌
 
 ‌
