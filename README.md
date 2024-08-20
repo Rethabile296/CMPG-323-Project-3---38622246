@@ -26,21 +26,29 @@ Telemetry Portal also integrates with Power BI for advanced reporting and data a
 ## Reference list
 1. Coding Droplets (2021). Blazor Tutorial C# - Part 1 | Blazor Basics in 30 Mins [Blazor Development] | Razor Pages. [online] YouTube. Available at: https://www.youtube.com/watch?v=dY_AWdCzsCY&list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV [Accessed 16 Aug. 2024].
 2. Coding Droplets (2024). What is Repository Pattern in .net Core - Repository Pattern C#. [online] YouTube. Available at: https://www.youtube.com/watch?v=aEhAm5wCZ-Y&list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV&index=21 [Accessed 16 Aug. 2024].
-3. www.youtube.com. (2023). 6 September CMPG323 weekly virtual class Patterns demo. [online] Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
-4. www.youtube.com. (2023). 5 September Patterns background +Web app demo. [online] Available at: https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
-5. www.youtube.com. (2023). 13 September Application of Design Patterns to ASP.NET Core 3.1 MVC Web App. [online] Available at: https://www.youtube.com/watch?v=VYvgmMkGUfc [Accessed 16 Aug 2024].
-6. Rick-Anderson (2023). ASP.NET MVC Overview. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview [Accessed 16 Aug. 2024].
-7. CamSoper (n.d.). Secure a .NET web app with the ASP.NET Core Identity framework - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ [Accessed 16 Aug. 2024].
-8. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
-9. www.c-sharpcorner.com. (2012). Architectural Patterns in .NET. [online] Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ [Accessed 16 Aug. 2024].
-10. Pluralsight.com. (2019). How to Use a .gitignore File. [online] Available at: https://www.pluralsight.com/resources/blog/guides/how-to-use-gitignore-file [Accessed 20 Aug. 2024]
-11. Conejo, M. (2023). Step-by-Step Guide to Creating Web Apps and Using App Service Plans in Azure. [online] Medium. Available at: https://medium.com/@marvinconejo/step-by-step-guide-to-creating-web-apps-and-using-app-service-plans-in-azure-a9a1d597d24f [Accessed 20 Aug. 2024]
-12. azure.microsoft.com. (n.d.). App Service — Build and Host Web Apps | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/app-service [Accessed 20 Aug. 2024]
-13. 4 Sight Consulting (2024). A Step-by-Step Guide to Publishing Your Software on Azure Marketplace. [online] 4 Sight Holdings. Available at: https://4sight.cloud/blog/a-step-by-step-guide-to-publishing-your-software-on-azure-marketplace [Accessed 20 Aug. 2024].
-14. Hurst, J. (2024). How do you deploy (‘Publish’) a website to Azure? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/59384763/how-do-you-deploy-publish-a-website-to-azure [Accessed 20 Aug. 2024].
-15. ghogen (2022). Get a publish profile from Azure App Service - Visual Studio (Windows). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/visualstudio/azure/how-to-get-publish-profile-from-azure-app-service?view=vs-2022 [Accessed 20 Aug. 2024]
-16. Caulfield, jack (2020). A Quick Guide to Harvard Referencing | Citation Examples. [online] Scribbr. Available at: https://www.scribbr.co.uk/referencing/harvard-style/ [Accessed 20 Aug. 2024]
-17. 
+3. www.youtube.com. (2023). 31 August CMPG323 weekly virtual class Patterns introduction. [online] Available at: https://www.youtube.com/watch?v=-Xn7i_BcKJg [Accessed 16 Aug. 2024]
+4. www.youtube.com. (2023). 6 September CMPG323 weekly virtual class Patterns demo. [online] Available at: https://www.youtube.com/watch?v=_5iD4efyeE8 [Accessed 16 Aug. 2024].
+5. www.youtube.com. (2023). 5 September Patterns background +Web app demo. [online] Available at: https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Aug. 2024].
+6. www.youtube.com. (2023). 13 September Application of Design Patterns to ASP.NET Core 3.1 MVC Web App. [online] Available at: https://www.youtube.com/watch?v=VYvgmMkGUfc [Accessed 16 Aug 2024].
+7. Rick-Anderson (2023). ASP.NET MVC Overview. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview [Accessed 16 Aug. 2024].
+8. CamSoper (n.d.). Secure a .NET web app with the ASP.NET Core Identity framework - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ [Accessed 16 Aug. 2024].
+9. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
+10. www.c-sharpcorner.com. (2012). Architectural Patterns in .NET. [online] Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ [Accessed 16 Aug. 2024].
+11. Pluralsight.com. (2019). How to Use a .gitignore File. [online] Available at: https://www.pluralsight.com/resources/blog/guides/how-to-use-gitignore-file [Accessed 20 Aug. 2024]
+12. Conejo, M. (2023). Step-by-Step Guide to Creating Web Apps and Using App Service Plans in Azure. [online] Medium. Available at: https://medium.com/@marvinconejo/step-by-step-guide-to-creating-web-apps-and-using-app-service-plans-in-azure-a9a1d597d24f [Accessed 20 Aug. 2024]
+13. azure.microsoft.com. (n.d.). App Service — Build and Host Web Apps | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/app-service [Accessed 20 Aug. 2024]
+14. 4 Sight Consulting (2024). A Step-by-Step Guide to Publishing Your Software on Azure Marketplace. [online] 4 Sight Holdings. Available at: https://4sight.cloud/blog/a-step-by-step-guide-to-publishing-your-software-on-azure-marketplace [Accessed 20 Aug. 2024].
+15. Hurst, J. (2024). How do you deploy (‘Publish’) a website to Azure? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/59384763/how-do-you-deploy-publish-a-website-to-azure [Accessed 20 Aug. 2024].
+16. ghogen (2022). Get a publish profile from Azure App Service - Visual Studio (Windows). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/visualstudio/azure/how-to-get-publish-profile-from-azure-app-service?view=vs-2022 [Accessed 20 Aug. 2024]
+17. Caulfield, jack (2020). A Quick Guide to Harvard Referencing | Citation Examples. [online] Scribbr. Available at: https://www.scribbr.co.uk/referencing/harvard-style/ [Accessed 20 Aug. 2024]
+18. guardrex (2023). ASP.NET Core Blazor. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0 [Accessed 20 Aug. 2024]
+19. Microsoft. (n.d.). Blazor | Build client web apps with C# | .NET. [online] Available at: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor [Accessed 20 Aug. 2024]
+20. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 20 Aug. 2024]
+21. 
+
+‌
+
+‌
 
 ‌
 
