@@ -33,7 +33,16 @@ Telemetry Portal also integrates with Power BI for advanced reporting and data a
 7. CamSoper (n.d.). Secure a .NET web app with the ASP.NET Core Identity framework - Training. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ [Accessed 16 Aug. 2024].
 8. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 16 Aug. 2024].
 9. www.c-sharpcorner.com. (2012). Architectural Patterns in .NET. [online] Available at: https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ [Accessed 16 Aug. 2024].
-10. 
+10. Pluralsight.com. (2019). How to Use a .gitignore File. [online] Available at: https://www.pluralsight.com/resources/blog/guides/how-to-use-gitignore-file [Accessed 20 Aug. 2024]
+11. Conejo, M. (2023). Step-by-Step Guide to Creating Web Apps and Using App Service Plans in Azure. [online] Medium. Available at: https://medium.com/@marvinconejo/step-by-step-guide-to-creating-web-apps-and-using-app-service-plans-in-azure-a9a1d597d24f [Accessed 20 Aug. 2024]
+12. azure.microsoft.com. (n.d.). App Service — Build and Host Web Apps | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/app-service [Accessed 20 Aug. 2024]
+13. 4 Sight Consulting (2024). A Step-by-Step Guide to Publishing Your Software on Azure Marketplace. [online] 4 Sight Holdings. Available at: https://4sight.cloud/blog/a-step-by-step-guide-to-publishing-your-software-on-azure-marketplace [Accessed 20 Aug. 2024].
+14. Hurst, J. (2024). How do you deploy (‘Publish’) a website to Azure? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/59384763/how-do-you-deploy-publish-a-website-to-azure [Accessed 20 Aug. 2024].
+15. ghogen (2022). Get a publish profile from Azure App Service - Visual Studio (Windows). [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/visualstudio/azure/how-to-get-publish-profile-from-azure-app-service?view=vs-2022 [Accessed 20 Aug. 2024]
+16. Caulfield, jack (2020). A Quick Guide to Harvard Referencing | Citation Examples. [online] Scribbr. Available at: https://www.scribbr.co.uk/referencing/harvard-style/ [Accessed 20 Aug. 2024]
+17. 
+
+‌
 
 ‌
 
