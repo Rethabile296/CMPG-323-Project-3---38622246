@@ -44,7 +44,13 @@ Power BI and Telemetry Portal are integrated for enhanced data analysis and repo
 18. guardrex (2023). ASP.NET Core Blazor. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0 [Accessed 20 Aug. 2024]
 19. Microsoft. (n.d.). Blazor | Build client web apps with C# | .NET. [online] Available at: https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor [Accessed 20 Aug. 2024]
 20. C-sharpcorner.com. (2019). Design Patterns In .NET. [online] Available at: https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ [Accessed 20 Aug. 2024]
-21. 
+21. Yohan Malshika (2023). Single Responsibility Principle in C# - Yohan Malshika - Medium. [online] Medium. Available at: https://malshikay.medium.com/single-responsibility-principle-in-c-62c00a87988a#:~:text=At%20its%20core%2C%20SRP%20advocates [Accessed 20 Aug. 2024].
+22. Shekhawat, S.S. (n.d.). SOLID - Single Responsibility Principle With C#. [online] www.c-sharpcorner.com. Available at: https://www.c-sharpcorner.com/article/solid-single-responsibility-principle-with-c-sharp/ [Accessed 20 Aug. 2024]
+23. ByteHide (2023). Learn Open Closed Principle in C# (+ Examples). [online] DEV Community. Available at: https://dev.to/bytehide/learn-open-closed-principle-in-c-examples-21pa [Accessed 20 Aug. 2024].
+24. Tutorialsteacher.com. (2024). SOLID: Open-Closed Principle. [online] Available at: https://www.tutorialsteacher.com/csharp/open-closed-principle [Accessed 20 Aug. 2024].
+25. www.c-sharpcorner.com. (2020). Generic Repository Pattern In ASP.NET Core. [online] Available at: https://www.c-sharpcorner.com/article/generic-repository-pattern-in-asp-net-core/ [Accessed 20 Aug. 2024]
+
+‌
 
 ‌
 
